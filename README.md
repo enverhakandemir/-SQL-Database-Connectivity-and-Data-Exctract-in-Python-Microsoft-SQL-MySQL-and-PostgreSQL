@@ -1,6 +1,6 @@
 In this repository, SQL connections are established for three different database management systems using Python:
 
-  1- “pyodbc” : This library is used for Microsoft SQL Server, but in fact this module uses the Open Database Connectivity (ODBC) implementation and can be used for multiple platforms 
+  1- “pyodbc” : This library is used for Microsoft SQL Server in this repository, but in fact this module uses the Open Database Connectivity (ODBC) implementation and can be used for multiple platforms 
   such as Oracle, MySQL etc. This library can be seen as a sufficient stand-alone tool for various SQL server connections.
   For detailed information: https://pypi.org/project/pyodbc/
 
